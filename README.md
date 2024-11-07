@@ -5,9 +5,9 @@
 </picture>
 
 
-## About me
+## About me :tea:
 
-Hi, I'm Emi. I'm a Computer Science Student at UBA Exactas wanting to learn and improve. 
+Hi, I'm Emi. I'm a Computer Science Student at UBA Exactas wanting to learn and improve. I'm very passionate about videogames and music. :dragon: :octocat:
 
 
 ---
